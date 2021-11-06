@@ -116,3 +116,6 @@ _deps
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode,cmake,c,database
+
+_Build
+assets
